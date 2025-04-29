@@ -1,26 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-class Program
+public class Program
 {
-    static void Main()
+    public static void Main()
     {
         Console.Write("Enter a sentence: ");
-        string input = Console.ReadLine();
+        string sentence = Console.ReadLine();
         
-        int wordCount = WordCounter.CountWords(input);
+        int wordCount = LanguageFunctions.GetWordCountInSentence(sentence);
         Console.WriteLine($"Number of words in the sentence: {wordCount}");
+        Console.ReadKey();
     }
 }
 
-public class WordCounter
-{
-    public static int CountWords(string sentence)
-    {
-        if (string.IsNullOrWhiteSpace(sentence))
-            return 0;
-
-        string[] words = sentence.Trim().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-        return words.Length;
-    }
-}
