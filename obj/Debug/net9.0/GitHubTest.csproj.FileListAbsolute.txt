@@ -1,0 +1,14 @@
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\bin\Debug\net9.0\GitHubTest.exe
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\bin\Debug\net9.0\GitHubTest.deps.json
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\bin\Debug\net9.0\GitHubTest.runtimeconfig.json
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\bin\Debug\net9.0\GitHubTest.dll
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\bin\Debug\net9.0\GitHubTest.pdb
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.AssemblyInfoInputs.cache
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.AssemblyInfo.cs
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.dll
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\refint\GitHubTest.dll
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.pdb
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\GitHubTest.genruntimeconfig.cache
+C:\Users\Adim\Documents\GitHubTest\GitHubTest\obj\Debug\net9.0\ref\GitHubTest.dll
